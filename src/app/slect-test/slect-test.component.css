@@ -1,0 +1,47 @@
+
+.top  {
+    background-color: aqua;
+    width: 100%;
+    height: 100%;
+}
+
+
+.wrapper  {
+    background-color: purple;
+    width: 100%;
+    height: 100%;
+}
+
+
+.wrapper .in-wrapp-top {
+    width: 100px;
+    height: 100px;
+   
+    position: absolute;
+   
+
+    transform: translate(-50%, -50%);
+}
+
+.a {
+   left: 33%;
+    background-color: red;
+
+}
+
+.b{
+    left: 50%;
+    background-color: green;
+}
+.c{
+    right: 33%;
+    background-color: blue;
+}
+
+
+
+.bot  {
+    background-color: red;
+    width: 100%;
+    height: 100%;
+}

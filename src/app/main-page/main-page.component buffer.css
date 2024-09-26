@@ -1,0 +1,38 @@
+*{
+    box-sizing : border-box;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+
+}
+
+*{
+    color: #fff;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+text-align: center;
+}   
+
+
+textarea{
+    background-color: #000;
+}
+
+.global-wrapper{
+    background-color: #000;
+}
+
+
+
+.top-elem{
+    height: 600px;
+}
+.top-elem .header{
+    display: flex;
+    flex-direction: row;
+    width: 60%;
+    margin: auto;
+}
+
+
+
+
